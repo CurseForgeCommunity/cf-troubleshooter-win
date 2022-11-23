@@ -2,6 +2,8 @@
 
 This tool is made to help end users (hopefully) figure out what might be wrong with their CurseForge installation
 
+Get the latest version from here https://github.com/CurseForgeCommunity/cf-troubleshooter-win/releases/latest
+
 ![image](https://user-images.githubusercontent.com/11502257/199100706-3bfbecee-236e-4ed7-8816-d47b362899f4.png)
 
 
